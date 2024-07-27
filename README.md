@@ -25,10 +25,15 @@ Pssword
   ```
 ### Detail
 Untuk detail lebih lanjut terdapat pada readme per repository
-* [![React][React.js]][React-url]
+* [![Front End][React.js]][React-url]
 
 ### Running Projects Front End
 Menggunakan perintah dibawah ini unutk menjalankan program (Program harus dijalankan pada PORT 3001)
  ```sh
   npm start -- --port 3001
   ```
+
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
