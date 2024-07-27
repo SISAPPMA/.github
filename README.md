@@ -25,10 +25,12 @@ Pssword
   ```
 ### Detail
 Untuk detail lebih lanjut terdapat pada readme per repository
-    <a href="https://github.com/SISAPPMA/Server-Side.git" style="background-color: red; color: white; text-decoration: none; padding: 10px 20px; font-size: 16px; display: inline-block; border-radius: 5px; cursor: pointer;">
+    <br />
+    <a href="https://github.com/SISAPPMA/Server-Side.git">
         Back End
     </a>
-    <a href="https://github.com/SISAPPMA/Front-End.git" style="color: red; text-decoration: none; padding: 10px 20px; font-size: 16px; display: inline-block; border: 2px solid red; border-radius: 5px; cursor: pointer;">
+    <br />
+    <a href="https://github.com/SISAPPMA/Front-End.git">
         Front End
     </a>
 
