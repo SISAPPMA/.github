@@ -25,7 +25,13 @@ Pssword
   ```
 ### Detail
 Untuk detail lebih lanjut terdapat pada readme per repository
-* [![Front End][React.js]][React-url]
+    <a href="https://github.com/SISAPPMA/Server-Side.git" style="background-color: red; color: white; text-decoration: none; padding: 10px 20px; font-size: 16px; display: inline-block; border-radius: 5px; cursor: pointer;">
+        Back End
+    </a>
+    <a href="https://github.com/SISAPPMA/Front-End.git" style="color: red; text-decoration: none; padding: 10px 20px; font-size: 16px; display: inline-block; border: 2px solid red; border-radius: 5px; cursor: pointer;">
+        Front End
+    </a>
+
 
 ### Running Projects Front End
 Menggunakan perintah dibawah ini unutk menjalankan program (Program harus dijalankan pada PORT 3001)
@@ -33,7 +39,3 @@ Menggunakan perintah dibawah ini unutk menjalankan program (Program harus dijala
   npm start -- --port 3001
   ```
 
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
