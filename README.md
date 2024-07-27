@@ -26,11 +26,11 @@ Pssword
 ### Detail
 Untuk detail lebih lanjut terdapat pada readme per repository
     <br />
-    <a href="https://github.com/SISAPPMA/Server-Side.git">
+    - <a href="https://github.com/SISAPPMA/Server-Side.git">
         Back End
     </a>
     <br />
-    <a href="https://github.com/SISAPPMA/Front-End.git">
+    - <a href="https://github.com/SISAPPMA/Front-End.git">
         Front End
     </a>
 
