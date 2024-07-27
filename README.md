@@ -35,9 +35,3 @@ Untuk detail lebih lanjut terdapat pada readme per repository
     </a>
 
 
-### Running Projects Front End
-Menggunakan perintah dibawah ini unutk menjalankan program (Program harus dijalankan pada PORT 3001)
- ```sh
-  npm start -- --port 3001
-  ```
-
